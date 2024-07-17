@@ -1,5 +1,5 @@
 public class Sorting2 {
-    static void Insertion(int[] arr) {
+    static void Selection(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + " ");
         }
