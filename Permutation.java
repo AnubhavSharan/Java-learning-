@@ -54,7 +54,7 @@ class Solution {
 }
 
 
-class Solution5 {
+class CommonPrefix {
     static String findWordsContaining(String[] strs) {
         if (strs == null || strs.length == 0) {
              System.out.println("null");
@@ -82,7 +82,7 @@ class Solution5 {
     }
 }
 
-//class Solution {
+//class CommonPrefix2 {
 //    public String longestCommonPrefix(String[] strs) {
 //        StringBuilder s = new StringBuilder();
 //        int index =0;
